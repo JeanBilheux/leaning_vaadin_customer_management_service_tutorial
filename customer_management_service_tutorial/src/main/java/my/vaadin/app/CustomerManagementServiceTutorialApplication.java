@@ -1,0 +1,13 @@
+package my.vaadin.app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CustomerManagementServiceTutorialApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CustomerManagementServiceTutorialApplication.class, args);
+	}
+
+}
